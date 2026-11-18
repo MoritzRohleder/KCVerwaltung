@@ -256,7 +256,8 @@ Rekorde pro Spiel sind **nicht möglich**, da nur Positionen und keine Ergebniss
 - **Punkte nach Platzierung:** Für jede Platzierung in einem Spiel gibt es Punkte. Die Punkte hängen von der **Anzahl der Spieler des Spiels** ab: Der Erste erhält so viele Punkte, wie Spieler mitspielen, jeder folgende Platz einen Punkt weniger (bei 6 Spielern: 6, 5, 4, 3, 2, 1).
   - Es zählt die Anzahl der Spieler und nicht die der Anwesenden, da z. B. Verspätete oder früher Gehende für den Abend als anwesend gelten, aber nicht jedes Spiel mitspielen.
   - **Geteilte Plätze:** Alle Spieler auf einem geteilten Platz erhalten die Punkte dieses Platzes (bei 1., 2., 2., 4. erhalten beide Zweiten die Punkte des 2. Platzes).
-  - **Teamspiele:** Alle Spieler eines Teams erhalten die Punkte der Platzierung ihres Teams; das Verliererteam erhält die Punkte des letzten Platzes.
+  - **Teamspiele:** Alle Spieler des Gewinnerteams erhalten die Punkte des 1. Platzes, alle Spieler des Verliererteams die Punkte des **tatsächlich letzten Platzes**.
+    Beispiel 2 Teams à 3 Spieler (6 Spieler): Gewinner je 6 Punkte, Verlierer je 1 Punkt.
   Wer die meisten Punkte sammelt, ist **Ranglistenführer** des Abends bzw. der Saison.
 - **Gleichstand:** Bei Gleichstand wird der Titel bzw. Platz **geteilt** (z. B. zwei beste Kegler der Saison).
 - **Pudelkönig des Abends:** Bei Gleichstand wird am Ende des Abends **ausgekegelt**.
@@ -286,7 +287,7 @@ Folgende Punkte sind für spätere Ausbaustufen vorgesehen und **nicht** Teil de
 | # | Thema | Frage |
 |---|---|---|
 | w | Vordruck | Wie soll der druckbare Vordruck für den Kegelabend aussehen und was enthält er? Hinweis: Damit Strafen pro Vergehen ausgewertet werden können, braucht der Vordruck – anders als der bisherige Zettel mit Spalten je Betrag – eine Spalte (oder Zeile) je Strafe. |
-| p5 | Punkte bei Teamspielen | Was ist der „letzte Platz“ des Verliererteams? Beispiel 2 Teams à 3 Spieler: Nach der Regel für geteilte Plätze wären die Plätze 1., 1., 1., 4., 4., 4. → Verlierer erhalten je 3 Punkte. Oder erhalten sie die Punkte des tatsächlich letzten Platzes (6.) → je 1 Punkt? |
+| p6 | Punkte bei drei Teams | Welche Punkte erhält das mittlere Team? Beispiel 3 Teams à 2 Spieler (6 Spieler): Gewinner je 6, Verlierer je 1 – mittleres Team je 5 (Punkte des 2. Platzes) oder je 4 (Punkte des 3. Platzes, also des ersten Platzes nach dem Gewinnerteam)? |
 
 ---
 
