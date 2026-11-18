@@ -146,7 +146,7 @@ Nach dem Kegelabend trägt ein Mitglied mit entsprechendem Recht die Daten des A
 - **Anwesenheit:** anwesend, entschuldigt fehlend, unentschuldigt fehlend; dazu anwesende Gäste.
 - **Gespielte Spiele:** Spiel aus dem Spielekatalog und die **Position**, die jeder Teilnehmer erreicht hat.
   - **Geteilte Plätze** sind möglich. Die folgenden Plätze werden dann übersprungen (z. B. 1., 2., 2., 4.).
-  - Bei **Teamspielen** erhalten alle Spieler eines Teams dieselbe Position: Das Gewinnerteam belegt den ersten Platz, das andere Team den letzten.
+  - Bei **Teamspielen** erhält jedes Team eine Position, die für alle Spieler des Teams gilt. Meist spielen zwei Teams (Gewinnerteam erster Platz, anderes Team letzter Platz), bisher höchstens drei Teams.
 - **Strafen pro Vergehen** und pro Person, jeweils als **Anzahl** (z. B. 3× Pudel, 1× Seil berührt, 1× Spiel verloren).
   - Pudel und verlorene Spiele werden ebenfalls als Strafe eingetragen.
   - Strafen, die von einer Menge abhängen, werden ebenso über die Anzahl erfasst. Beispiel: Verspätung (1 € je angefangene Stunde) wird je angefangene Stunde einmal gezählt.
@@ -239,6 +239,12 @@ Statistiken beruhen auf **Positionen** in den gespielten Spielen, auf **Strafen*
 
 Rekorde pro Spiel sind **nicht möglich**, da nur Positionen und keine Ergebnisse erfasst werden.
 
+### Regeln
+
+- **Gewonnenes Spiel:** Jeder erste Platz zählt als gewonnenes Spiel – auch ein geteilter erster Platz und ein Sieg im Teamspiel.
+- **Gleichstand:** Bei Gleichstand wird der Titel bzw. Platz **geteilt** (z. B. zwei beste Kegler der Saison).
+- **Pudelkönig des Abends:** Bei Gleichstand wird am Ende des Abends **ausgekegelt**. Ist das nicht möglich, wird die Krone geteilt.
+
 ---
 
 ## 10. Ausbaustufen
@@ -266,9 +272,7 @@ Folgende Punkte sind für spätere Ausbaustufen vorgesehen und **nicht** Teil de
 
 | # | Thema | Frage |
 |---|---|---|
-| y1 | Bester Kegler | Zählen Siege in Teamspielen und geteilte erste Plätze als gewonnenes Spiel? |
-| y2 | Gleichstand | Wie wird bei Gleichstand entschieden (z. B. gleich viele gewonnene Spiele oder gleich viele Pudel)? |
-| y3 | Teamspiele | Gibt es nur Spiele mit zwei Teams, oder auch mit mehr Teams (dann gäbe es auch mittlere Plätze)? |
+| z1 | Auskegeln | Wie wird das Ergebnis des Auskegelns um den Pudelkönig des Abends erfasst? Z. B. trägt der Dokumentierende den Gewinner des Auskegelns beim Abend ein. |
 
 ---
 
