@@ -209,6 +209,7 @@ Einzelne Würfe werden **nicht** erfasst – der Aufwand ist hoch und der statis
 - Satzung und Vereinsordnung werden **direkt auf der Webseite** bearbeitet (kein Datei-Upload).
 - **Weitere Dokumente** können sowohl als Text auf der Webseite angelegt als auch als Datei hochgeladen werden.
 - Änderungen werden in einem **Versionsverlauf** festgehalten.
+- Der Texteditor bietet **grundlegende Formatierungsmöglichkeiten**.
 - Bearbeiten darf, wessen Rolle das Recht „Dokumente“ hat (z. B. der Schriftführer).
 
 ### Satzung
@@ -221,7 +222,8 @@ Einzelne Würfe werden **nicht** erfasst – der Aufwand ist hoch und der statis
 
 - Enthält die Regeln des Clubs.
 - Der **Strafenkatalog** wird automatisch eingebunden.
-- Der Aufbau (ein Text oder einzelne Abschnitte) ist noch offen.
+- Die Vereinsordnung besteht aus **einzelnen Abschnitten**, jeweils mit **Überschrift und Inhalt**.
+- Die Abschnitte werden von den berechtigten Personen **frei angelegt** (keine Vorlage wie bei der Satzung).
 
 ---
 
@@ -274,7 +276,6 @@ Folgende Punkte sind für spätere Ausbaustufen vorgesehen und **nicht** Teil de
 
 | # | Thema | Frage |
 |---|---|---|
-| n | Vereinsordnung | Wird die Vereinsordnung in einzelne Abschnitte gegliedert oder ist sie ein einziger Text? |
 | w | Vordruck | Wie soll der druckbare Vordruck für den Kegelabend aussehen und was enthält er? Hinweis: Damit Strafen pro Vergehen ausgewertet werden können, braucht der Vordruck – anders als der bisherige Zettel mit Spalten je Betrag – eine Spalte (oder Zeile) je Strafe. |
 
 ---
