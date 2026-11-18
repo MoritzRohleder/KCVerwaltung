@@ -209,7 +209,8 @@ Einzelne Würfe werden **nicht** erfasst – der Aufwand ist hoch und der statis
 - Satzung und Vereinsordnung werden **direkt auf der Webseite** bearbeitet (kein Datei-Upload).
 - **Weitere Dokumente** können sowohl als Text auf der Webseite angelegt als auch als Datei hochgeladen werden.
 - Änderungen werden in einem **Versionsverlauf** festgehalten.
-- Der Texteditor bietet **grundlegende Formatierungsmöglichkeiten**.
+- Der Texteditor bietet **grundlegende Formatierungsmöglichkeiten**: fett, kursiv, Aufzählungen, nummerierte Listen und Links.
+- Dieser Editor wird in **allen längeren Textfeldern** verwendet: Satzung, Vereinsordnung, weitere Dokumente sowie Spielbeschreibung, Besonderheiten und Varianten im Spielekatalog.
 - Bearbeiten darf, wessen Rolle das Recht „Dokumente“ hat (z. B. der Schriftführer).
 
 ### Satzung
@@ -221,7 +222,7 @@ Einzelne Würfe werden **nicht** erfasst – der Aufwand ist hoch und der statis
 ### Vereinsordnung
 
 - Enthält die Regeln des Clubs.
-- Der **Strafenkatalog** wird automatisch eingebunden.
+- Der **Strafenkatalog** wird automatisch eingebunden. Er wird wie ein Abschnitt an einer **frei wählbaren Stelle** positioniert.
 - Die Vereinsordnung besteht aus **einzelnen Abschnitten**, jeweils mit **Überschrift und Inhalt**.
 - Die Abschnitte werden von den berechtigten Personen **frei angelegt** (keine Vorlage wie bei der Satzung).
 
