@@ -148,7 +148,7 @@ Nach dem Kegelabend trägt ein Mitglied mit entsprechendem Recht die Daten des A
 - **Anwesenheit:** anwesend, entschuldigt fehlend, unentschuldigt fehlend; dazu anwesende Gäste.
 - **Gespielte Spiele:** Spiel aus dem Spielekatalog und die **Position**, die jeder Teilnehmer erreicht hat.
   - **Geteilte Plätze** sind möglich. Die folgenden Plätze werden dann übersprungen (z. B. 1., 2., 2., 4.).
-  - Bei **Teamspielen** erhält jedes Team eine Position, die für alle Spieler des Teams gilt. Meist spielen zwei Teams (Gewinnerteam erster Platz, anderes Team letzter Platz), bisher höchstens drei Teams.
+  - Bei **Teamspielen** erhält jedes Team eine Position, die für alle Spieler des Teams gilt. Es spielen zwei Teams (Gewinnerteam erster Platz, anderes Team letzter Platz); mit mehr als zwei Teams wurde bisher nicht gespielt.
 - **Strafen pro Vergehen** und pro Person, jeweils als **Anzahl** (z. B. 3× Pudel, 1× Seil berührt, 1× Spiel verloren).
   - Pudel und verlorene Spiele werden ebenfalls als Strafe eingetragen.
   - Strafen, die von einer Menge abhängen, werden ebenso über die Anzahl erfasst. Beispiel: Verspätung (1 € je angefangene Stunde) wird je angefangene Stunde einmal gezählt.
@@ -287,7 +287,7 @@ Folgende Punkte sind für spätere Ausbaustufen vorgesehen und **nicht** Teil de
 | # | Thema | Frage |
 |---|---|---|
 | w | Vordruck | Wie soll der druckbare Vordruck für den Kegelabend aussehen und was enthält er? Hinweis: Damit Strafen pro Vergehen ausgewertet werden können, braucht der Vordruck – anders als der bisherige Zettel mit Spalten je Betrag – eine Spalte (oder Zeile) je Strafe. |
-| p6 | Punkte bei drei Teams | Welche Punkte erhält das mittlere Team? Beispiel 3 Teams à 2 Spieler (6 Spieler): Gewinner je 6, Verlierer je 1 – mittleres Team je 5 (Punkte des 2. Platzes) oder je 4 (Punkte des 3. Platzes, also des ersten Platzes nach dem Gewinnerteam)? |
+| p6 | Teamspiele | Sollen Teamspiele auf **zwei Teams** beschränkt werden, oder sollen auch mehr Teams möglich sein (dann muss noch geklärt werden, welche Punkte mittlere Teams erhalten)? |
 
 ---
 
