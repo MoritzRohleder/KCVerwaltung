@@ -174,8 +174,9 @@ Einzelne Würfe werden **nicht** erfasst – der Aufwand ist hoch und der statis
 ## 7. Strafen und Strafenkatalog
 
 - Jeder Club pflegt einen **Strafenkatalog**. Eine Strafe enthält:
-  - Bezeichnung des Vergehens
-  - Betrag – oder eine Strafe ohne Geldbetrag (z. B. „Runde ausgeben“)
+  - **Bezeichnung** des Vergehens (Text)
+  - **Betrag** als Zahl – Strafen ohne Geldbetrag (z. B. Bierfrevel → „Runde ausgeben“) erhalten den Betrag 0 €.
+  - Hinweise wie „je angefangene Stunde“ oder „Runde ausgeben“ sind Teil der Bezeichnung.
   - Merkmal **„zählt für den Durchschnitt der Fehlenden“**
 - Der Strafenkatalog ist die **einzige Quelle** für Strafen. Er wird **automatisch in die Vereinsordnung** übernommen und dort angezeigt.
 
@@ -236,8 +237,7 @@ Statistiken beruhen auf **Positionen** (und den daraus berechneten **Punkten**) 
 
 - Pudelkönig der Saison (meiste Pudel)
 - Pudelkönig des Abends (trägt laut Vereinsordnung beim nächsten Abend die Pudelmütze)
-- **Ranglistenführer des Abends** und **der Saison** (meiste Punkte, siehe Regeln)
-- Bester Kegler der Saison (meiste gewonnene Spiele)
+- **Ranglistenführer des Abends** und **der Saison** (meiste Punkte, siehe Regeln) – der Ranglistenführer der Saison ist der **beste Kegler der Saison**
 - Gewonnene Spiele (wird zusätzlich zu den Punkten geführt)
 - Rangliste pro Abend
 - Strafenkönig
@@ -253,7 +253,10 @@ Rekorde pro Spiel sind **nicht möglich**, da nur Positionen und keine Ergebniss
 ### Regeln
 
 - **Gewonnenes Spiel:** Jeder erste Platz zählt als gewonnenes Spiel – auch ein geteilter erster Platz und ein Sieg im Teamspiel.
-- **Punkte nach Platzierung:** Für jede Platzierung in einem Spiel gibt es Punkte. Die Punkte hängen von der **Anzahl der anwesenden Personen** ab: Der Erste erhält die meisten Punkte, jeder folgende Platz einen Punkt weniger.
+- **Punkte nach Platzierung:** Für jede Platzierung in einem Spiel gibt es Punkte. Die Punkte hängen von der **Anzahl der Spieler des Spiels** ab: Der Erste erhält so viele Punkte, wie Spieler mitspielen, jeder folgende Platz einen Punkt weniger (bei 6 Spielern: 6, 5, 4, 3, 2, 1).
+  - Es zählt die Anzahl der Spieler und nicht die der Anwesenden, da z. B. Verspätete oder früher Gehende für den Abend als anwesend gelten, aber nicht jedes Spiel mitspielen.
+  - **Geteilte Plätze:** Alle Spieler auf einem geteilten Platz erhalten die Punkte dieses Platzes (bei 1., 2., 2., 4. erhalten beide Zweiten die Punkte des 2. Platzes).
+  - **Teamspiele:** Alle Spieler eines Teams erhalten die Punkte der Platzierung ihres Teams; das Verliererteam erhält die Punkte des letzten Platzes.
   Wer die meisten Punkte sammelt, ist **Ranglistenführer** des Abends bzw. der Saison.
 - **Gleichstand:** Bei Gleichstand wird der Titel bzw. Platz **geteilt** (z. B. zwei beste Kegler der Saison).
 - **Pudelkönig des Abends:** Bei Gleichstand wird am Ende des Abends **ausgekegelt**.
@@ -283,10 +286,7 @@ Folgende Punkte sind für spätere Ausbaustufen vorgesehen und **nicht** Teil de
 | # | Thema | Frage |
 |---|---|---|
 | w | Vordruck | Wie soll der druckbare Vordruck für den Kegelabend aussehen und was enthält er? Hinweis: Damit Strafen pro Vergehen ausgewertet werden können, braucht der Vordruck – anders als der bisherige Zettel mit Spalten je Betrag – eine Spalte (oder Zeile) je Strafe. |
-| p1 | Punkte | Konkrete Berechnung: Erhält der Erste so viele Punkte, wie Personen anwesend sind (bei 6 Anwesenden: 6, 5, 4 …)? |
-| p2 | Punkte | Was gilt bei geteilten Plätzen (z. B. 1., 2., 2., 4.) und bei Teamspielen (z. B. Erster und Letzter bei zwei Teams)? |
-| p3 | Punkte | Spielen bei einem Spiel nicht alle Anwesenden mit: Zählt dann trotzdem die Anzahl der Anwesenden oder die Anzahl der Mitspieler? |
-| p4 | Bester Kegler | Bleibt „Bester Kegler der Saison“ = meiste gewonnene Spiele, oder ist der Ranglistenführer der Saison der beste Kegler? |
+| p5 | Punkte bei Teamspielen | Was ist der „letzte Platz“ des Verliererteams? Beispiel 2 Teams à 3 Spieler: Nach der Regel für geteilte Plätze wären die Plätze 1., 1., 1., 4., 4., 4. → Verlierer erhalten je 3 Punkte. Oder erhalten sie die Punkte des tatsächlich letzten Platzes (6.) → je 1 Punkt? |
 
 ---
 
