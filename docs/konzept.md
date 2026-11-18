@@ -151,6 +151,7 @@ Nach dem Kegelabend trägt ein Mitglied mit entsprechendem Recht die Daten des A
   - Pudel und verlorene Spiele werden ebenfalls als Strafe eingetragen.
   - Strafen, die von einer Menge abhängen, werden ebenso über die Anzahl erfasst. Beispiel: Verspätung (1 € je angefangene Stunde) wird je angefangene Stunde einmal gezählt.
 - **Strafen ohne Geldbetrag** (z. B. Bierfrevel → Runde ausgeben) werden ebenfalls dokumentiert.
+- **Auskegeln** um den Pudelkönig: ob ausgekegelt wurde und wer beteiligt war (siehe [Statistiken – Regeln](#regeln)).
 
 Einzelne Würfe werden **nicht** erfasst – der Aufwand ist hoch und der statistische Nutzen gering, da je nach Spiel unterschiedliche Ziele und Ausgangslagen gelten.
 
@@ -232,6 +233,7 @@ Statistiken beruhen auf **Positionen** in den gespielten Spielen, auf **Strafen*
 - Rangliste pro Abend
 - Strafenkönig
 - Anwesenheitsquote
+- Auskegeln: wie oft ausgekegelt wurde und wer beteiligt war
 - Entwicklung über die Zeit
 - Vergleich zweier Mitglieder
 - **Durchschnitt der gesamten Truppe**, mit dem sich jedes Mitglied vergleichen kann
@@ -248,7 +250,8 @@ Rekorde pro Spiel sind **nicht möglich**, da nur Positionen und keine Ergebniss
   - Dieser Pudel wird **normal als Strafe dokumentiert** und entscheidet so den Gleichstand. Der Pudelkönig ergibt sich damit automatisch aus der Anzahl der Pudel.
   - Haben am Ende des Abends trotzdem mehrere gleich viele Pudel, wird die Würde **geteilt**.
   - Auch alle übrigen beim Auskegeln entstehenden Strafen (z. B. Kackstuhl, Stine, Kugel kommt zurück) werden normal dokumentiert.
-  - Das Auskegeln wird als Spiel des Abends dokumentiert, hat aber **keinen Gewinner** und zählt **nicht** zur Statistik der Siege, da nicht alle Anwesenden mitspielen.
+  - Das Auskegeln ist **kein Spiel** im eigentlichen Sinn: Es steht nicht im Spielekatalog, hat keinen Gewinner und zählt weder als gespieltes noch als gewonnenes Spiel.
+  - Beim Abend wird festgehalten, **dass ausgekegelt wurde und wer beteiligt war**.
 
 ---
 
@@ -272,13 +275,6 @@ Folgende Punkte sind für spätere Ausbaustufen vorgesehen und **nicht** Teil de
 | n | Vereinsordnung | Wird die Vereinsordnung in einzelne Abschnitte gegliedert oder ist sie ein einziger Text? |
 | q | Kegelbild | Wird bei Spielen, bei denen ein Kegelbild gestellt wird, das Bild festgehalten – und wenn ja, wo (im Spielekatalog oder pro gespieltem Spiel)? |
 | w | Vordruck | Wie soll der druckbare Vordruck für den Kegelabend aussehen und was enthält er? Hinweis: Damit Strafen pro Vergehen ausgewertet werden können, braucht der Vordruck – anders als der bisherige Zettel mit Spalten je Betrag – eine Spalte (oder Zeile) je Strafe. |
-
-### Weitere offene Fragen
-
-| # | Thema | Frage |
-|---|---|---|
-| z4 | Spiele ohne Gewinner | Wird das Auskegeln als eigener Eintrag im Spielekatalog geführt? Und soll es allgemein Spiele „ohne Wertung“ geben (keine Positionen, keine Siege)? |
-| z5 | Gespielte Spiele | Zählt das Auskegeln für die Teilnehmer als „gespieltes Spiel“ (z. B. bei der Anzahl gespielter Spiele)? |
 
 ---
 
