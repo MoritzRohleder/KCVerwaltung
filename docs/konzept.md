@@ -243,8 +243,12 @@ Rekorde pro Spiel sind **nicht möglich**, da nur Positionen und keine Ergebniss
 
 - **Gewonnenes Spiel:** Jeder erste Platz zählt als gewonnenes Spiel – auch ein geteilter erster Platz und ein Sieg im Teamspiel.
 - **Gleichstand:** Bei Gleichstand wird der Titel bzw. Platz **geteilt** (z. B. zwei beste Kegler der Saison).
-- **Pudelkönig des Abends:** Bei Gleichstand wird am Ende des Abends **ausgekegelt**. Ist das nicht möglich, wird die Krone geteilt.
-  Beim Auskegeln entstehende Strafen (z. B. Kackstuhl, Stine, Kugel kommt zurück) werden **normal dokumentiert**.
+- **Pudelkönig des Abends:** Bei Gleichstand wird am Ende des Abends **ausgekegelt**.
+  - Am Auskegeln nehmen nur die Gleichstehenden teil. Wer **zuerst einen Pudel** wirft, wird Pudelkönig.
+  - Dieser Pudel wird **normal als Strafe dokumentiert** und entscheidet so den Gleichstand. Der Pudelkönig ergibt sich damit automatisch aus der Anzahl der Pudel.
+  - Haben am Ende des Abends trotzdem mehrere gleich viele Pudel, wird die Würde **geteilt**.
+  - Auch alle übrigen beim Auskegeln entstehenden Strafen (z. B. Kackstuhl, Stine, Kugel kommt zurück) werden normal dokumentiert.
+  - Das Auskegeln wird als Spiel des Abends dokumentiert, hat aber **keinen Gewinner** und zählt **nicht** zur Statistik der Siege, da nicht alle Anwesenden mitspielen.
 
 ---
 
@@ -273,9 +277,8 @@ Folgende Punkte sind für spätere Ausbaustufen vorgesehen und **nicht** Teil de
 
 | # | Thema | Frage |
 |---|---|---|
-| z1 | Auskegeln | Wie wird das Ergebnis des Auskegelns um den Pudelkönig des Abends erfasst? Vorschlag: Der Dokumentierende trägt den Pudelkönig beim Abend ein; ohne Eintrag gilt die Krone als geteilt. |
-| z2 | Auskegeln | Zählt das Auskegeln in den Spiel-Statistiken (gespielte Spiele, gewonnene Spiele) oder nur bei den Strafen? |
-| z3 | Auskegeln | Zählen Pudel, die beim Auskegeln geworfen werden, für den Pudelkönig des Abends bzw. der Saison? |
+| z4 | Spiele ohne Gewinner | Wird das Auskegeln als eigener Eintrag im Spielekatalog geführt? Und soll es allgemein Spiele „ohne Wertung“ geben (keine Positionen, keine Siege)? |
+| z5 | Gespielte Spiele | Zählt das Auskegeln für die Teilnehmer als „gespieltes Spiel“ (z. B. bei der Anzahl gespielter Spiele)? |
 
 ---
 
