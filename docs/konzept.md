@@ -153,6 +153,8 @@ Nach dem Kegelabend trägt ein Mitglied mit entsprechendem Recht die Daten des A
 - **Strafen ohne Geldbetrag** (z. B. Bierfrevel → Runde ausgeben) werden ebenfalls dokumentiert.
 - **Auskegeln** um den Pudelkönig: ob ausgekegelt wurde und wer beteiligt war (siehe [Statistiken – Regeln](#regeln)).
 
+Das **Kegelbild** eines Spiels wird **nicht** gesondert festgehalten. Wo es eine Rolle spielt, ist es Teil der Spielbeschreibung im Spielekatalog.
+
 Einzelne Würfe werden **nicht** erfasst – der Aufwand ist hoch und der statistische Nutzen gering, da je nach Spiel unterschiedliche Ziele und Ausgangslagen gelten.
 
 ### Berechnung der Strafen
@@ -273,7 +275,6 @@ Folgende Punkte sind für spätere Ausbaustufen vorgesehen und **nicht** Teil de
 | # | Thema | Frage |
 |---|---|---|
 | n | Vereinsordnung | Wird die Vereinsordnung in einzelne Abschnitte gegliedert oder ist sie ein einziger Text? |
-| q | Kegelbild | Wird bei Spielen, bei denen ein Kegelbild gestellt wird, das Bild festgehalten – und wenn ja, wo (im Spielekatalog oder pro gespieltem Spiel)? |
 | w | Vordruck | Wie soll der druckbare Vordruck für den Kegelabend aussehen und was enthält er? Hinweis: Damit Strafen pro Vergehen ausgewertet werden können, braucht der Vordruck – anders als der bisherige Zettel mit Spalten je Betrag – eine Spalte (oder Zeile) je Strafe. |
 
 ---
