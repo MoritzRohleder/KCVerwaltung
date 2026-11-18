@@ -86,6 +86,8 @@ Eine Webseite, auf der ein Kegelclub alle Informationen gesammelt festhält:
 ### Gäste (externe Personen)
 
 - Gastkegler werden nicht als Mitglieder geführt, sondern als **externe Personen**.
+- Für einen Gast wird ein **kleiner Datensatz** mit **Vor- und Nachname** angelegt.
+- In der Ansicht des Kegelabends sind Gäste als **Gast markiert**.
 - Gäste nehmen an Spielen teil, erhalten Strafen wie Mitglieder und tauchen in den Daten des Abends auf.
   Ob der Gast oder das einladende Mitglied die Strafen zahlt, regeln die Beteiligten unter sich.
 - Eine externe Person kann **zum Mitglied werden**. Ihre bisherigen Daten und Statistiken werden dabei **in das Mitglied übernommen**.
@@ -230,11 +232,13 @@ Einzelne Würfe werden **nicht** erfasst – der Aufwand ist hoch und der statis
 
 ## 9. Statistiken
 
-Statistiken beruhen auf **Positionen** in den gespielten Spielen, auf **Strafen** und auf der **Anwesenheit**.
+Statistiken beruhen auf **Positionen** (und den daraus berechneten **Punkten**) in den gespielten Spielen, auf **Strafen** und auf der **Anwesenheit**.
 
 - Pudelkönig der Saison (meiste Pudel)
 - Pudelkönig des Abends (trägt laut Vereinsordnung beim nächsten Abend die Pudelmütze)
+- **Ranglistenführer des Abends** und **der Saison** (meiste Punkte, siehe Regeln)
 - Bester Kegler der Saison (meiste gewonnene Spiele)
+- Gewonnene Spiele (wird zusätzlich zu den Punkten geführt)
 - Rangliste pro Abend
 - Strafenkönig
 - Anwesenheitsquote
@@ -249,6 +253,8 @@ Rekorde pro Spiel sind **nicht möglich**, da nur Positionen und keine Ergebniss
 ### Regeln
 
 - **Gewonnenes Spiel:** Jeder erste Platz zählt als gewonnenes Spiel – auch ein geteilter erster Platz und ein Sieg im Teamspiel.
+- **Punkte nach Platzierung:** Für jede Platzierung in einem Spiel gibt es Punkte. Die Punkte hängen von der **Anzahl der anwesenden Personen** ab: Der Erste erhält die meisten Punkte, jeder folgende Platz einen Punkt weniger.
+  Wer die meisten Punkte sammelt, ist **Ranglistenführer** des Abends bzw. der Saison.
 - **Gleichstand:** Bei Gleichstand wird der Titel bzw. Platz **geteilt** (z. B. zwei beste Kegler der Saison).
 - **Pudelkönig des Abends:** Bei Gleichstand wird am Ende des Abends **ausgekegelt**.
   - Am Auskegeln nehmen nur die Gleichstehenden teil. Wer **zuerst einen Pudel** wirft, wird Pudelkönig.
@@ -267,7 +273,6 @@ Folgende Punkte sind für spätere Ausbaustufen vorgesehen und **nicht** Teil de
 - **Weitere Veranstaltungsarten** neben dem Kegelabend (z. B. Kegeltour, Königskegeln, sonstige Treffen), bei denen ebenfalls Strafen anfallen können.
 - **Kassenwart-Funktionen**, z. B. Pflege eines Bezahlt-Status von Strafen und Beiträgen.
 - **Verlorene Spiele automatisch** aus der erreichten Position ableiten statt sie als Strafe einzutragen.
-- **Punkte nach Platzierung:** Punktevergabe abhängig von der Anzahl der Anwesenden (Erster erhält die meisten Punkte, jeder weitere einen Punkt weniger).
 
 ---
 
@@ -278,6 +283,10 @@ Folgende Punkte sind für spätere Ausbaustufen vorgesehen und **nicht** Teil de
 | # | Thema | Frage |
 |---|---|---|
 | w | Vordruck | Wie soll der druckbare Vordruck für den Kegelabend aussehen und was enthält er? Hinweis: Damit Strafen pro Vergehen ausgewertet werden können, braucht der Vordruck – anders als der bisherige Zettel mit Spalten je Betrag – eine Spalte (oder Zeile) je Strafe. |
+| p1 | Punkte | Konkrete Berechnung: Erhält der Erste so viele Punkte, wie Personen anwesend sind (bei 6 Anwesenden: 6, 5, 4 …)? |
+| p2 | Punkte | Was gilt bei geteilten Plätzen (z. B. 1., 2., 2., 4.) und bei Teamspielen (z. B. Erster und Letzter bei zwei Teams)? |
+| p3 | Punkte | Spielen bei einem Spiel nicht alle Anwesenden mit: Zählt dann trotzdem die Anzahl der Anwesenden oder die Anzahl der Mitspieler? |
+| p4 | Bester Kegler | Bleibt „Bester Kegler der Saison“ = meiste gewonnene Spiele, oder ist der Ranglistenführer der Saison der beste Kegler? |
 
 ---
 
