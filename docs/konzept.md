@@ -244,6 +244,7 @@ Rekorde pro Spiel sind **nicht möglich**, da nur Positionen und keine Ergebniss
 - **Gewonnenes Spiel:** Jeder erste Platz zählt als gewonnenes Spiel – auch ein geteilter erster Platz und ein Sieg im Teamspiel.
 - **Gleichstand:** Bei Gleichstand wird der Titel bzw. Platz **geteilt** (z. B. zwei beste Kegler der Saison).
 - **Pudelkönig des Abends:** Bei Gleichstand wird am Ende des Abends **ausgekegelt**. Ist das nicht möglich, wird die Krone geteilt.
+  Beim Auskegeln entstehende Strafen (z. B. Kackstuhl, Stine, Kugel kommt zurück) werden **normal dokumentiert**.
 
 ---
 
@@ -272,7 +273,9 @@ Folgende Punkte sind für spätere Ausbaustufen vorgesehen und **nicht** Teil de
 
 | # | Thema | Frage |
 |---|---|---|
-| z1 | Auskegeln | Wie wird das Ergebnis des Auskegelns um den Pudelkönig des Abends erfasst? Z. B. trägt der Dokumentierende den Gewinner des Auskegelns beim Abend ein. |
+| z1 | Auskegeln | Wie wird das Ergebnis des Auskegelns um den Pudelkönig des Abends erfasst? Vorschlag: Der Dokumentierende trägt den Pudelkönig beim Abend ein; ohne Eintrag gilt die Krone als geteilt. |
+| z2 | Auskegeln | Zählt das Auskegeln in den Spiel-Statistiken (gespielte Spiele, gewonnene Spiele) oder nur bei den Strafen? |
+| z3 | Auskegeln | Zählen Pudel, die beim Auskegeln geworfen werden, für den Pudelkönig des Abends bzw. der Saison? |
 
 ---
 
