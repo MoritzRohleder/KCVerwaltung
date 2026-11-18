@@ -43,6 +43,7 @@ Eine Webseite, auf der ein Kegelclub alle Informationen gesammelt festhält:
 
 - Es gibt einen **System-Admin**, der über allen Clubs steht.
 - Der System-Admin legt Clubs an und verwaltet Clubs und Nutzer.
+- Für einen neuen Club verschickt der System-Admin die **Einladung an den ersten Club-Verwalter**.
 
 ### Rollen im Club
 
@@ -144,8 +145,11 @@ Nach dem Kegelabend trägt ein Mitglied mit entsprechendem Recht die Daten des A
 
 - **Anwesenheit:** anwesend, entschuldigt fehlend, unentschuldigt fehlend; dazu anwesende Gäste.
 - **Gespielte Spiele:** Spiel aus dem Spielekatalog und die **Position**, die jeder Teilnehmer erreicht hat.
-- **Strafen pro Vergehen** und pro Person (z. B. 3× Pudel, 1× Seil berührt, 1× Spiel verloren).
-  Pudel und verlorene Spiele werden ebenfalls als Strafe eingetragen.
+  - **Geteilte Plätze** sind möglich. Die folgenden Plätze werden dann übersprungen (z. B. 1., 2., 2., 4.).
+  - Bei **Teamspielen** erhalten alle Spieler eines Teams dieselbe Position: Das Gewinnerteam belegt den ersten Platz, das andere Team den letzten.
+- **Strafen pro Vergehen** und pro Person, jeweils als **Anzahl** (z. B. 3× Pudel, 1× Seil berührt, 1× Spiel verloren).
+  - Pudel und verlorene Spiele werden ebenfalls als Strafe eingetragen.
+  - Strafen, die von einer Menge abhängen, werden ebenso über die Anzahl erfasst. Beispiel: Verspätung (1 € je angefangene Stunde) wird je angefangene Stunde einmal gezählt.
 - **Strafen ohne Geldbetrag** (z. B. Bierfrevel → Runde ausgeben) werden ebenfalls dokumentiert.
 
 Einzelne Würfe werden **nicht** erfasst – der Aufwand ist hoch und der statistische Nutzen gering, da je nach Spiel unterschiedliche Ziele und Ausgangslagen gelten.
@@ -157,6 +161,7 @@ Einzelne Würfe werden **nicht** erfasst – der Aufwand ist hoch und der statis
 - **Fehlende Mitglieder** zahlen den **Durchschnitt** der Strafen des Abends:
   - Grundlage sind nur Strafen, die im Strafenkatalog als **„zählt für den Durchschnitt der Fehlenden“** markiert sind (gespielte Strafen wie Pudel, Seil, Spiel verloren – nicht z. B. „T-Shirt vergessen“).
   - Durchschnitt = Summe dieser Strafen ÷ Anzahl der Anwesenden.
+  - Anwesende **Gäste zählen normal mit**, sowohl bei der Summe der Strafen als auch bei der Anzahl der Anwesenden.
 - **Unentschuldigtes Fehlen:** Die Strafe für unentschuldigtes Fehlen (beim KC Umluft 50 €) wird **zusätzlich** auf den Durchschnitt aufgerechnet.
 
 ---
@@ -199,6 +204,7 @@ Einzelne Würfe werden **nicht** erfasst – der Aufwand ist hoch und der statis
 ### Allgemein
 
 - Satzung und Vereinsordnung werden **direkt auf der Webseite** bearbeitet (kein Datei-Upload).
+- **Weitere Dokumente** können sowohl als Text auf der Webseite angelegt als auch als Datei hochgeladen werden.
 - Änderungen werden in einem **Versionsverlauf** festgehalten.
 - Bearbeiten darf, wessen Rolle das Recht „Dokumente“ hat (z. B. der Schriftführer).
 
@@ -221,15 +227,17 @@ Einzelne Würfe werden **nicht** erfasst – der Aufwand ist hoch und der statis
 Statistiken beruhen auf **Positionen** in den gespielten Spielen, auf **Strafen** und auf der **Anwesenheit**.
 
 - Pudelkönig der Saison (meiste Pudel)
-- Bester Kegler der Saison
+- Pudelkönig des Abends (trägt laut Vereinsordnung beim nächsten Abend die Pudelmütze)
+- Bester Kegler der Saison (meiste gewonnene Spiele)
 - Rangliste pro Abend
 - Strafenkönig
 - Anwesenheitsquote
-- Rekorde pro Spiel
 - Entwicklung über die Zeit
 - Vergleich zweier Mitglieder
 - **Durchschnitt der gesamten Truppe**, mit dem sich jedes Mitglied vergleichen kann
 - **Ranglisten** zu einzelnen Statistiken
+
+Rekorde pro Spiel sind **nicht möglich**, da nur Positionen und keine Ergebnisse erfasst werden.
 
 ---
 
@@ -252,21 +260,15 @@ Folgende Punkte sind für spätere Ausbaustufen vorgesehen und **nicht** Teil de
 |---|---|---|
 | n | Vereinsordnung | Wird die Vereinsordnung in einzelne Abschnitte gegliedert oder ist sie ein einziger Text? |
 | q | Kegelbild | Wird bei Spielen, bei denen ein Kegelbild gestellt wird, das Bild festgehalten – und wenn ja, wo (im Spielekatalog oder pro gespieltem Spiel)? |
-| w | Vordruck | Wie soll der druckbare Vordruck für den Kegelabend aussehen und was enthält er? |
+| w | Vordruck | Wie soll der druckbare Vordruck für den Kegelabend aussehen und was enthält er? Hinweis: Damit Strafen pro Vergehen ausgewertet werden können, braucht der Vordruck – anders als der bisherige Zettel mit Spalten je Betrag – eine Spalte (oder Zeile) je Strafe. |
 
-### Beim Schreiben des Konzepts aufgefallen
-
-Die folgenden Punkte ergeben sich aus den bisherigen Entscheidungen, sind aber noch nicht geklärt:
+### Weitere offene Fragen
 
 | # | Thema | Frage |
 |---|---|---|
-| x1 | Erster Club-Verwalter | Konten entstehen nur über Einladungslinks. Wie erhält der erste Verwalter eines neuen Clubs sein Konto – verschickt der System-Admin die erste Einladung? |
-| x2 | Strafen pro Einheit | Manche Strafen hängen von einer Menge ab (Verspätung: 1 € je angefangene Stunde). Soll der Strafenkatalog solche Strafen abbilden (Betrag × Anzahl/Einheit)? |
-| x3 | Gleiche Positionen | Kann es in einem Spiel geteilte Plätze geben (z. B. zwei Zweite)? |
-| x4 | Statistiken nur mit Positionen | „Bester Kegler“ und „Rekorde pro Spiel“: Wie werden sie berechnet, wenn nur Positionen erfasst werden (z. B. bester Durchschnittsplatz, meiste Siege)? |
-| x5 | Gäste im Durchschnitt | Zählen anwesende Gäste bei der Durchschnittsstrafe für Fehlende mit (bei der Summe der Strafen und bei der Anzahl der Anwesenden)? |
-| x6 | Pudelkönig des Abends | Laut Vereinsordnung trägt der Pudelkönig des letzten Abends die Pudelmütze. Soll die Webseite auch den Pudelkönig pro Abend ausweisen? |
-| x7 | Weitere Dokumente | Neben Satzung und Vereinsordnung sollen „andere Dokumente“ hinterlegt werden können. Sind das ebenfalls Texte auf der Webseite oder hochgeladene Dateien? |
+| y1 | Bester Kegler | Zählen Siege in Teamspielen und geteilte erste Plätze als gewonnenes Spiel? |
+| y2 | Gleichstand | Wie wird bei Gleichstand entschieden (z. B. gleich viele gewonnene Spiele oder gleich viele Pudel)? |
+| y3 | Teamspiele | Gibt es nur Spiele mit zwei Teams, oder auch mit mehr Teams (dann gäbe es auch mittlere Plätze)? |
 
 ---
 
